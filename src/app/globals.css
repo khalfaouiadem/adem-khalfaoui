@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #1B1F3B;
+  --foreground: #1B1F3B; /* texte blanc pour contraster */
 }
 
 @theme inline {
@@ -15,12 +15,28 @@
 @media (prefers-color-scheme: dark) {a
   :root {
     --background: #0a0a0a;
-    --foreground: #ededed;
+    --foreground: #1B1F3B;
   }
 }
+
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #1A0B2E;
+}
+
+.navbar {
+  width: 100%;
+  max-width: 1980px;
+  height: 113px;
+  background-color: #1A0B2E; /* violet Figma */
+  opacity: 1;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  box-sizing: border-box;
 }
