@@ -48,7 +48,7 @@ export default function Home() {
 
         {/* Download CV */}
         <a
-          href="/cv.pdf"
+          href="/uploads/cv.pdf"
           download="Adem-Khalfaoui-CV.pdf"
           className="mt-6 px-6 py-3 bg-blue-500 text-white font-semibold rounded-lg hover:bg-blue-600 transition"
         >
