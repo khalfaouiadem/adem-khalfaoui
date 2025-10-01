@@ -6,7 +6,7 @@ export const metadata = {
   title: 'Adem Khalfaoui Portfolio',
   description: 'Fullstack Developer Portfolio',
   icons: {
-    icon: '/favicon/job.png' // Favicon placé dans /public/favicon
+    icon: '/favicon/adems.png' // Favicon placé dans /public/favicon
   },
 };
 
@@ -17,7 +17,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         {/* Import des Material Icons */}
         <link
           href="https://fonts.googleapis.com/icon?family=Material+Icons"
-          rel="stylesheet"
+          rel="stylesheet"  
         />
       </head>
       <body className="bg-gray-50 text-gray-900 font-sans">
