@@ -12,7 +12,7 @@ export default function Home() {
         className="flex flex-col items-center justify-center text-center py-20 bg-blue-100"
       >
         <Image
-          src="/image/image-portfolio.jpg"
+          src="/image/adems.png"
           alt="My Photo"
           width={150}
           height={150}

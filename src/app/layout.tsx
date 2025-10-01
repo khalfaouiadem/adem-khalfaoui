@@ -6,7 +6,7 @@ export const metadata = {
   title: 'Adem Khalfaoui Portfolio',
   description: 'Fullstack Developer Portfolio',
   icons: {
-    icon: '/favicon/adems.png' // Favicon placé dans /public/favicon
+    icon: '/favicon/job.png' // Favicon placé dans /public/favicon
   },
 };
 
