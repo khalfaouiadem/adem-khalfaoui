@@ -27,7 +27,7 @@ export default function Home() {
                 strings: [
                   "Adem Khalfaoui",
                   "Fullstack Developer",
-                  "React | Next.js | Java | Flutter",
+                  "React | Next.js | Java | Springboot | Angular |Flutter",
                   " Passionate about building clean and modern web & Mobile applications.",
                   "Managament of Oracle database that using container ",
                   "Deploying and Devops Cloud Providers AWS & GCP &GC",
